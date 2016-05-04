@@ -61,11 +61,14 @@ a:hover {
            padding: 10px 0 15px;
 }
 .section:last-child { border: none }
-.section-text { width: 80%;
-                font-size: 18px;
-                line-height: 24px;
-                margin: 10px 0 10px;
-                padding: 0 10px;
+.section-text {
+    width: 80%;
+    /*
+    font-size: 18px;
+    line-height: 24px;
+    */
+    margin: 10px 0 10px;
+    padding: 0 10px;
 }
 .subsection { margin: 10px 0 5px }
 .desc { font-size: 16px; font-family: "source-sans-pro", sans-serif; color:#444;}
